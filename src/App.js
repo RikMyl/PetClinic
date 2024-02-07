@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,8 +5,7 @@ function App() {
     <div className="App">
         <p>
           VAMK ON #PARASTAAIKAA
-        </p>
-      
+        </p>      
     </div>
   );
 }
